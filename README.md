@@ -16,8 +16,6 @@
 <p align="center">
 <a href="https://github.com/RayanHack5"><img title="Author" src="https://img.shields.io/badge/RGTECH-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/FpxvVBFOozA6IhNxIWhwFw"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/237656520674"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
 
- ## 𝑲𝑬𝑹𝑴_𝑴𝑫 Deployment Methods
-
 ### 1. FORK THIS REPO
 
 <a href='https://github.com/RayanHack5/KERM_MD-2.0/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
