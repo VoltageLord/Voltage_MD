@@ -11,7 +11,7 @@ global.sudo = process.env.SUDO
   ? process.env.SUDO.replace(/[\s+]/g, "")
   : "237650564445";
 global.owner = process.env.OWNER_NUMBER
-  ? process.env.OWNER_NUMBER.replace(/[\s+]/g, "")
+  ? process.env.OWNER_NUMBER.replace(/[\s+]/g, "237650564445")
   : "237656520674";
 global.THUMB_IMAGE =
   process.env.THUMB_IMAGE ||
@@ -47,7 +47,7 @@ module.exports = {
 };
 global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
-global.email = "giffareno05@gmail.com";
+global.email = "kermmd237@gmail.com";
 global.location = "Douala";
 global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
