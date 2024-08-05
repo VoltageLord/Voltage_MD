@@ -5,7 +5,7 @@
 <up A simple WhatsApp User Bot Coded By Rayan and Giffareno</u>
 </p>
 <p align="center">
-<img src="https://telegra.ph/file/1999deebe6edf02af31b9.jpg"/>       
+<img src="https://telegra.ph/file/e2f9b7dcd69340e77716f.jpg"/>       
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+KERM-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+RAYAN+AND+GIFFAREO;RELEASED+DATE+27%2F7%2F2024."                               alt="Typing SVG" /></a>
 </p> +
