@@ -9,29 +9,29 @@ global.MONGODB = process.env.MONGODB_URI || "";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
 global.sudo = process.env.SUDO
   ? process.env.SUDO.replace(/[\s+]/g, "")
-  : "null";
+  : "237650564445";
 global.owner = process.env.OWNER_NUMBER
   ? process.env.OWNER_NUMBER.replace(/[\s+]/g, "")
-  : "null";
+  : "237656520674";
 global.THUMB_IMAGE =
   process.env.THUMB_IMAGE ||
   process.env.IMAGE ||
-  "https://i.imgur.com/dMwGOUP.jpeg";
+  "https://telegra.ph/file/68af6a5bee7525404da75.jpg";
 global.userImages =
   process.env.USER_IMAGES ||
-  "https://i.imgur.com/lIo3cM2.jpeg,https://i.imgur.com/OQOH4Gn.jpeg";
+  "https://telegra.ph/file/68af6a5bee7525404da75.jpg";
 ///===========[global iMPORTS]====================//
 
 module.exports = {
   menu: process.env.MENU || "",
-  HANDLERS: process.env.PREFIX || "",
+  HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "`©ᴀꜱᴛᴀ-ᴍᴅ`",
-  author: process.env.PACK_AUTHER || "Asta-Md",
-  packname: process.env.PACK_NAME || "Asta",
-  botname: process.env.BOT_NAME || "ᴀꜱᴛᴀ-ᴍᴅ",
-  ownername: process.env.OWNER_NAME || "Astro",
+  caption: process.env.CAPTION || "BRAND PRODUCT KG TECH",
+  author: process.env.PACK_AUTHER || "KG TECH",
+  packname: process.env.PACK_NAME || "KG TECH",
+  botname: process.env.BOT_NAME || "𝐊𝐄𝐑𝐌-𝐌𝐃",
+  ownername: process.env.OWNER_NAME || "KG TECH",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
@@ -47,20 +47,20 @@ module.exports = {
 };
 global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
-global.email = "";
-global.location = "";
+global.email = "giffareno05@gmail.com";
+global.location = "Douala";
 global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
-global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Lagos";
-global.github = process.env.GITHUB || "https://github.com/Astropeda/Asta-Md";
+global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Douala";
+global.github = process.env.GITHUB || "https://github.com/RayanHack5/KERM-MD";
 global.gurl = process.env.GURL || "";
 global.website = process.env.GURL || "";
-global.devs = "2348039607375";
+global.devs = "237656520674 , 237650564445";
 global.msg_style = process.env.STYLE || "4";
 global.session_reset = process.env.SS_RESET || "false";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
-global.warncount = process.env.WARN_COUNT || 3;
+global.warncount = process.env.WARN_COUNT || "3";
 global.disablepm = process.env.DISABLE_PM || "false";
 (global.disablegroup = process.env.DISABLE_GROUPS || "false"),
   (global.MsgsInLog = process.env.MSGS_IN_LOG || "true");
@@ -69,7 +69,7 @@ global.readcmds = process.env.READ_COMMAND || "false";
 global.readmessage = process.env.READ_MESSAGE || "false";
 global.readmessagefrom = process.env.READ_MESSAGE_FROM || "null";
 global.read_status = process.env.AUTO_READ_STATUS || "false";
-global.save_status = process.env.AUTO_SAVE_STATUS || "false";
+global.save_status = process.env.AUTO_SAVE_STATUS || "true";
 global.save_status_from = process.env.SAVE_STATUS_FROM || "null";
 global.read_status_from = process.env.READ_STATUS_FROM || "null";
 global.api_smd = "https://api-smd-1.vercel.app";
