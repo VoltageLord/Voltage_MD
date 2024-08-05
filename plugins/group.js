@@ -1815,7 +1815,7 @@ cmd(
         forwardingScore: 999,
         isForwarded: true,
         externalAdReply: {
-          title: "Suhail-Md Broadcast",
+          title: "Kerm-Md Broadcast",
           body: _0x553d05.senderName,
           renderLargerThumbnail: true,
           thumbnail: log0,
@@ -1865,7 +1865,7 @@ cmd(
             var admin = await isAdmin(message);
             if (!admin) return await message.sendReply(Lang.NOT_ADMIN)
             let users = participants.filter((member) => !member.admin)
-            await message.send(`_❗❗ Kicking *every* members of ${subject}. Restart bot immediately to kill this process ❗❗_\n*You have 5 seconds left*`)
+            await message.send(`_❗❗ Kicking *every* members of ${subject}. Restart bot immediately to kill this process ❗❗_\n*You have 5 seconds left🕞*`)
             await new Promise((r) => setTimeout(r, 5000))
             for (let member of users) {
                 await new Promise((r) => setTimeout(r, 1000))
