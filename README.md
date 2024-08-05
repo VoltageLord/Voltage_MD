@@ -1,7 +1,7 @@
 # 𝑲𝑬𝑹𝑴_𝑴𝑫
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/HerobrineTV/HerobrineTV/main/assets/name.svg" alt="KG TECH" />
+  <img src="https://github.com/RayanHack5/KERM-MD" alt="KG TECH" />
 </h1>
 <div align="center">
 
