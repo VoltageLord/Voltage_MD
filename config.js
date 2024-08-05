@@ -16,10 +16,10 @@ global.owner = process.env.OWNER_NUMBER
 global.THUMB_IMAGE =
   process.env.THUMB_IMAGE ||
   process.env.IMAGE ||
-  "https://telegra.ph/file/68af6a5bee7525404da75.jpg";
+  "https://telegra.ph/file/e2f9b7dcd69340e77716f.jpg";
 global.userImages =
   process.env.USER_IMAGES ||
-  "https://telegra.ph/file/68af6a5bee7525404da75.jpg";
+  "https://telegra.ph/file/e2f9b7dcd69340e77716f.jpg";
 ///===========[global iMPORTS]====================//
 
 module.exports = {
