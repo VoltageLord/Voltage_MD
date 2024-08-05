@@ -1,9 +1,9 @@
 {
-  "name": "asta-md",
-  "description": "Asta a simple WhatsAppp Bot",
-  "logo": "https://i.imgur.com/dMwGOUP.jpeg",
-  "keywords": "Asta",
-  "success_url": "/Asta/",
+  "name": "kerm-md",
+  "description": "𝐊𝐄𝐑𝐌-𝐌𝐃 simple WhatsAppp Bot",
+  "logo": "https://telegra.ph/file/68af6a5bee7525404da75.jpg",
+  "keywords": "Kerm-MD",
+  "success_url": "/Kerm-MD/",
   "app_url": "/qr/",
 
   "env": {
@@ -28,13 +28,13 @@
     },
     "OWNER_NAME": {
       "description": "Owner Name",
-      "value": "Astro",
+      "value": "KG TECH",
       "required": true
     },
 
     "WELCOME": {
       "description": "Welcome Message",
-      "value": "true",
+      "value": "false",
       "required": false
     },
 
@@ -46,17 +46,17 @@
     "BOT_NAME": {
       "description": "Bot Name",
       "required": false,
-      "value": "ᴀꜱᴛᴀ-ᴍᴅ"
+      "value": "𝐊𝐄𝐑𝐌-𝐌𝐃"
     },
     "USER_IMAGES": {
       "description": "Image for bot",
       "required": false,
-      "value": "https://i.imgur.com/lIo3cM2.jpeg,https://i.imgur.com/OQOH4Gn.jpeg"
+      "value": "https://telegra.ph/file/68af6a5bee7525404da75.jpg"
     },
     "TZ": {
       "description": "Don't change if you dont know your location.",
       "required": false,
-      "value": "Africa/Lagos"
+      "value": "Africa/Douala"
     },
     "SS_RESET": {
       "description": "If the bot doesn't work after delpoyment",
@@ -75,13 +75,13 @@
     },
     "AUTO_SAVE_STATUS": {
       "description": " Auto save whatsapp status",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
     "AUTO_READ_STATUS": {
       "description": "Fill the value true if you want bot view your Statuses.",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "MSGS_IN_LOG": {
       "description": "Fill the value -true- if you want to see Messages in logs.",
@@ -100,11 +100,11 @@
     },
     "PREFIX": {
       "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
-      "value": ""
+      "value": "."
     },
     "OWNER_NUMBER": {
       "description": "Owner number or sudo",
-      "value": "2348039607375"
+      "value": "237656520674"
     },
     "OPENAI_API_KEY": {
       "description": "put your OPENAI api key here.Get it from beta.openai.com ",
@@ -127,7 +127,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Asta Md",
+      "value": "KG TECH",
       "required": false
     },
     "PACK_AUTHER": {
