@@ -1,6 +1,7 @@
 # 𝑲𝑬𝑹𝑴_𝑴𝑫
 
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img 
+                                      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&pause=1000&color=F71515&width=435&lines=BOT+100%25+CAMEROUNAIS%E2%84%A2%EF%B8%8F" alt="Typing SVG" /></a>                  src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
 <up A simple WhatsApp User Bot Coded By Rayan and Giffareno</u>
 </p>
