@@ -1,9 +1,10 @@
 # 𝑲𝑬𝑹𝑴_𝑴𝑫
 
 <h1 align="center">
-  <img src="https://wa.me/237656520674" alt="Kg Tech" />
+  <img src="https://raw.githubusercontent.com/HerobrineTV/HerobrineTV/main/assets/name.svg" alt="Jan Waschinski" />
 </h1>
 <div align="center">
+
    <a>
                                       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=40&pause=1000&color=F71515&width=435&lines=BOT+100%25+CAMEROUNAIS%E2%84%A2%EF%B8%8F" alt="Typing SVG" /></a>   
             
