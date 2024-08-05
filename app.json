@@ -24,7 +24,7 @@
     "WAPRESENCE": {
       "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
       "required": false,
-      "value": "online"
+      "value": "available"
     },
     "OWNER_NAME": {
       "description": "Owner Name",
@@ -66,7 +66,7 @@
     "READ_COMMAND": {
       "description": "Read Commands",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "WARN_COUNT": {
       "description": "Warn count for users to kick/block when warn limit exceed!",
@@ -76,12 +76,12 @@
     "AUTO_SAVE_STATUS": {
       "description": " Auto save whatsapp status",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
     "AUTO_READ_STATUS": {
       "description": "Fill the value true if you want bot view your Statuses.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
     "MSGS_IN_LOG": {
       "description": "Fill the value -true- if you want to see Messages in logs.",
