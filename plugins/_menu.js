@@ -151,8 +151,10 @@ astro_patch.smd(
   ${menuThemeCommandPrefix} *ᴜsᴀɢᴇ ᴛʀᴇɴᴅ:* ${trend_usage}
   ${menuThemeCommandPrefix} *ᴅᴀᴛᴀʙᴀsᴇ:* ${database_info}
   ${menuThemeFooter}\n                         
-  ▄▀█ █▀ ▀█▀ ▄▀█
-  █▀█ ▄█ ░█░ █▀█
+  ✘𝙇𝞘𝞜𝘾𝞗𝙇𝞜 𝞑𝙐𝞒𝞒𝞗𝙒𝙎✯
+  𝐊𝐄𝐑𝐌-𝐌𝐃
+  ᵏᵍᶠ┘☞⌜ Ꮢ⌝☜└
+  
   \n${readmore}\n`;
 
       for (const category in categorizedCommands) {
