@@ -17,19 +17,17 @@
 </p>
 <p align="center">
 <a href="https://github.com/RayanHack5"><img title="Author" src="https://img.shields.io/badge/RGTECH-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/FpxvVBFOozA6IhNxIWhwFw"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/237656520674"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
-
+<p/>
+<p align="center">
+<a href="https://github.com/RayanHack5?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/RayanHack5?label=Followers&style=social"></a>
+<a href="https://github.com/RayanHack5/KERM-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/IRayanHack5/KERM-MD?&style=social"></a>
+<a href="https://github.com/RayanHack5/KERM-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/RayanHack5/KERM-MD?style=social"></a>
+<a href="https://github.com/RayanHack5/KERM-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/RayanHack5/KERM-MD?label=Watching&style=social"></a>
+</p>
 ### 1. FORK THIS REPO
 
 <a href='https://github.com/RayanHack5/KERM-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 <p align="center">
-<a href="https://github.com/Itxxwasi"><img title="Author" src="https://img.shields.io/badge/Itxxwasi-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/923192173398"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
-<p/>
-<p align="center">
-<a href="https://github.com/Itxxwasi?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Itxxwasi?label=Followers&style=social"></a>
-<a href="https://github.com/Itxxwasi/WASI-MD-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Itxxwasi/WASI-MD-V2?&style=social"></a>
-<a href="https://github.com/Itxxwasi/WASI-MD-V2/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Itxxwasi/WASI-MD-V2?style=social"></a>
-<a href="https://github.com/Itxxwasi/WASI-MD-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Itxxwasi/WASI-MD-V2?label=Watching&style=social"></a>
-</p>
 
 #### 𝐒𝐄𝐓𝐔𝐏
 
