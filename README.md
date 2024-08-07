@@ -40,9 +40,9 @@
 <a href=""><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a> 
 
 #### `𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐒𝐄𝐂𝐀𝐓𝐈𝐎𝐍`
-# <a href="https://dashboard.heroku.com/new?template=https://github.com/wasixd/WASI-MD-V2"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=black &style=for-the-badge&logo=msi"></a>
+# <a href="https://dashboard.heroku.com/new?template=https://github.com/RayanHack5/KERM-MD"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=black &style=for-the-badge&logo=msi"></a>
 # <a href="https://railway.app/template/OPU1WA?referralCode=RidRsW"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON RAILWAY-h?color=black&style=for-the-badge&logo=msi"></a>
-# <a href="(https://replit.com/github/Itxxwasi/WASI-MD-V2"><img title="raplir" src="https://img.shields.io/badge/RAPLIT-h?color=black&style=for-the-badge&logo=msi"></a>
+# <a href="(https://replit.com/github.com/RayanHack5/KERM-MD"><img title="raplir" src="https://img.shields.io/badge/RAPLIT-h?color=black&style=for-the-badge&logo=msi"></a>
 # <a href="https://wasimd-9dedcea2edba.herokuapp.com/"><img title="koyeb" src="https://img.shields.io/badge/DEPLOY ON KYOEB-h?color=black&style=for-the-badge&logo=msi"></a>
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/OPU1WA?referralCode=RidRsW)
 
