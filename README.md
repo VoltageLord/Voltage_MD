@@ -35,14 +35,24 @@
 
 1.𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 
 
-<a href="https://kerm-generator-session.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
+<a href="https://kerm-generator-session.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR_CODE-red" alt="Click Here to Get Pair-Code" width="110"></a>   
 
-<a href="https://web-qr-zhor.onrender.com"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a> 
+<a href="https://web-qr-zhor.onrender.com"><img src="https://img.shields.io/badge/QR CODE-blue" alt="Click Here to Get QR-Code" width="90"></a> 
 
 #### `𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 
 ## > <b><s1>3.ɪғ ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴀ ᴀᴄᴄᴏᴜɴᴛ ɪɴ ʜᴇʀᴏᴋᴜ. ᴄʀᴇᴀᴛᴇ ᴀ ᴀᴄᴄᴏᴜɴᴛ. </b></s1> 
 <a href='https://signup.heroku.com/' 
 target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-
-## ><b><s1>4.ɴᴏᴡ ᴅᴇᴘʟᴏʏ  </b></s1>
- 
+## Deployment Methods
+ ---
+1.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/RayanHack5/KERM-MD).***
+2.  ***Deploy on [`REPLIT`](https://replit.com/github.com/RayanHack5/KERM-MD).***
+3. ***Deploy on [`RENDER`](https://dashboard.render.com/login).***
+```
+RENDER PROCESS:
+    1: Click "NEW".
+    2: Select "Web Service".
+    3: Click "Build and deploy from a Git repository".
+    4: Now Choose this forked git repo from list.
+    5: And JUST CLICK "Connect". 
+```
