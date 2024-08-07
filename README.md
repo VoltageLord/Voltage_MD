@@ -45,7 +45,7 @@
 target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 ## ><b><s1>4.ɴᴏᴡ ᴅᴇᴘʟᴏʏ ᴏɴ ᴅᴇᴘʟᴏʏ </b></s1>
- <a href='https://dashboard.heroku.com/new?button-url=https://github.com/Afx-Abu/Afx-Abu&template=https://github.com/Afx-Abu/Abu-MD.git' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+ <a href='https://dashboard.heroku.com/new?button-url=https://github.com/RayanHack5/KERM-MD&template=https://github.com/RayanHack5/KERM-MD.git' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 # <a href="https://railway.app/template/OPU1WA?referralCode=RidRsW"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON RAILWAY-h?color=black&style=for-the-badge&logo=msi"></a>
 # <a href="(https://replit.com/github.com/RayanHack5/KERM-MD"><img title="raplir" src="https://img.shields.io/badge/RAPLIT-h?color=black&style=for-the-badge&logo=msi"></a>
