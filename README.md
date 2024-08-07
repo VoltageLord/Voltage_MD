@@ -24,7 +24,9 @@
 <a href="https://github.com/RayanHack5/KERM-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/RayanHack5/KERM-MD?style=social"></a>
 <a href="https://github.com/RayanHack5/KERM-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/RayanHack5/KERM-MD?label=Watching&style=social"></a>
 </p>
-   
+
+<p align="center">Need help? please create an <a href="https://github.com/RayanHack5/KERM-MD/issues">issue</a></p>
+
 ### 1. FORK THIS REPO
 
 <a href='https://github.com/RayanHack5/KERM-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
@@ -39,10 +41,6 @@
 
 <a href="https://web-qr-zhor.onrender.com"><img src="https://img.shields.io/badge/QR CODE-blue" alt="Click Here to Get QR-Code" width="90"></a> 
 
-#### `𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 
-## > <b><s1>3.ɪғ ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴀ ᴀᴄᴄᴏᴜɴᴛ ɪɴ ʜᴇʀᴏᴋᴜ. ᴄʀᴇᴀᴛᴇ ᴀ ᴀᴄᴄᴏᴜɴᴛ. </b></s1> 
-<a href='https://signup.heroku.com/' 
-target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 ## Deployment Methods
  ---
 1.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/RayanHack5/KERM-MD).***
