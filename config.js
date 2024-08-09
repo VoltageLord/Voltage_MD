@@ -1,4 +1,4 @@
-//KERM-MD
+//Voltage_MD
 const fs = require("fs-extra");
 if (fs.existsSync(".env"))
   require("dotenv").config({ path: __dirname + "/.env" });
