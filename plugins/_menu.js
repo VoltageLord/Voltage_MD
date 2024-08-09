@@ -36,7 +36,7 @@ astro_patch.smd(
   {
     cmdname: "menu",
     desc: "Help list",
-    react: "📃",
+    react: "⚡",
     desc: "To show all avaiable commands.",
     type: "user",
     filename: __filename,
@@ -152,7 +152,7 @@ astro_patch.smd(
   ${menuThemeCommandPrefix} *ᴅᴀᴛᴀʙᴀsᴇ:* ${database_info}
   ${menuThemeFooter}\n                         
   ✘𝙇𝞘𝞜𝘾𝞗𝙇𝞜 𝞑𝙐𝞒𝞒𝞗𝙒𝙎✯
-  𝐊𝐄𝐑𝐌-𝐌𝐃
+  Voltage_MD 
   ᵏᵍᶠ┘☞⌜ Ꮢ⌝☜└
   
   \n${readmore}\n`;
